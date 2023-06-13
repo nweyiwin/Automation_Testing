@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Learn More</name>
+   <tag></tag>
+   <elementGuidId>638dd044-2ea2-4b29-8732-423ecb1b3ce8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[9]/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dce9f059-ef8a-4692-bdde-4e8cae812a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-primary font-semibold mt-4 md:mt-6 2xl:mt-8 px-2 py-1 md:px-4 md:py-3 border-[3px] border-primary hover:bg-primary hover:text-light duration-200 fs-xl</value>
+      <webElementGuid>77f3f643-d5d8-4e53-a049-08940e30ad0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn More</value>
+      <webElementGuid>bb8faa44-f90d-47d0-8af4-fc91a2f94763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[9]/div[@class=&quot;mx-auto px-4 md:px-8 lg:px-12 xl:px-24 py-12 xl:py-32 relative&quot;]/div[@class=&quot;flex flex-col lg:flex-row justify-center items-start mx-auto max-w-[87.625rem]&quot;]/div[@class=&quot;w-full lg:w-[40%] 2xl:w-[28.875rem] mr-6 2xl:mr-12&quot;]/button[@class=&quot;inline-block text-primary font-semibold mt-4 md:mt-6 2xl:mt-8 px-2 py-1 md:px-4 md:py-3 border-[3px] border-primary hover:bg-primary hover:text-light duration-200 fs-xl&quot;]</value>
+      <webElementGuid>0668e084-2389-436d-a952-5e2a559eb207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[9]/div/div[2]/div/button</value>
+      <webElementGuid>f1f7cc75-02c3-4730-9dc5-44ad72e6cf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do we build your website?'])[1]/following::button[1]</value>
+      <webElementGuid>438eecd4-59f8-4d8a-92a3-4015a1d588be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proud to work with'])[1]/following::button[1]</value>
+      <webElementGuid>356b0a2c-0242-49d3-ad20-c12c72a6176d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Development Process'])[1]/preceding::button[1]</value>
+      <webElementGuid>7ce50e76-beda-4291-90ec-9ac1a7809b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/button</value>
+      <webElementGuid>1db35a32-1609-400d-93ad-a486218f956b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Learn More' or . = 'Learn More')]</value>
+      <webElementGuid>ce4b4295-1788-4287-9e16-47f94b8b0896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

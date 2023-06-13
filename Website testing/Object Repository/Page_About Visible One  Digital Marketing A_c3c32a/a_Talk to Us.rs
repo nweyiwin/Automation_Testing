@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Talk to Us</name>
+   <tag></tag>
+   <elementGuidId>28809620-c041-486c-b024-b782112bef63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[6]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02cdd417-0ec6-4088-811b-bd3c75aa07ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>contact-us</value>
+      <webElementGuid>40c70c44-9a32-4759-833d-6bb445e94a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary mt-6 lg:mt-8 inline-block px-4 py-2 border-[3px] border-primary hover:bg-primary hover:text-light duration-200 font-semibold fs-xl</value>
+      <webElementGuid>62243723-76bf-4ea0-a438-df17032b27e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Talk to Us</value>
+      <webElementGuid>5cf5296d-06c7-4fa9-a18e-a198228c2207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-4 md:px-12 lg:px-24 xl:px-32 2xl:px-44 py-16 lg:py-24 mx-auto relative z-0&quot;]/div[@class=&quot;flex flex-col md:flex-row justify-center items-center&quot;]/div[@class=&quot;w-full&quot;]/a[@class=&quot;text-primary mt-6 lg:mt-8 inline-block px-4 py-2 border-[3px] border-primary hover:bg-primary hover:text-light duration-200 font-semibold fs-xl&quot;]</value>
+      <webElementGuid>8b9bc8a9-ff2f-44d1-b144-1c3b2b337f0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[6]/div[2]/div/a</value>
+      <webElementGuid>b87bf5ce-c516-42bd-87a1-adb12f83af24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Talk to Us')]</value>
+      <webElementGuid>add1ae1b-bcff-4f3e-be7c-9e4426594ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get to know us more now?'])[1]/following::a[1]</value>
+      <webElementGuid>cc7b26f8-7b69-4ab9-b198-76583259b105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPC'])[1]/following::a[1]</value>
+      <webElementGuid>5d210cee-a189-4203-a6f0-17b05878bdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy To Use, Build on Powerful Technology'])[1]/preceding::a[1]</value>
+      <webElementGuid>11c7d48c-af1a-4e55-b7a5-fafd5fbd9216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOOLS &amp; TECHNOLOGY'])[1]/preceding::a[1]</value>
+      <webElementGuid>036b0d6b-c492-4e83-9209-df9116a86e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Talk to Us']/parent::*</value>
+      <webElementGuid>888bbd0d-065e-46a4-86a9-ba6f7aa57c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'contact-us')])[2]</value>
+      <webElementGuid>78438049-34b2-4371-a8f1-029b9b1d3153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/a</value>
+      <webElementGuid>53baebe8-208a-4dce-a5e6-537b57821d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'contact-us' and (text() = 'Talk to Us' or . = 'Talk to Us')]</value>
+      <webElementGuid>437202fa-9441-401f-bed8-50adb0c14ed5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

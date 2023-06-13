@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_2</name>
+   <tag></tag>
+   <elementGuidId>53a0772a-aa8f-4570-81d0-072a6a8bc574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div/div/div/ul/li[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.slick-dots > li:nth-of-type(2) > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>708d9869-96c5-4669-8915-5447e86f30f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>3309cb05-2e6f-43ea-b405-0604d59df38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[4]/div[@class=&quot;trustedContainer mx-auto px-4 md:px-8 2xl:px-28 max-w-[1700px] py-16 pb-10&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/ul[@class=&quot;slick-dots&quot;]/li[2]/button[1]</value>
+      <webElementGuid>32f71f1f-81a3-455e-a441-c2b48046e728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div/div/div/ul/li[2]/button</value>
+      <webElementGuid>a78ff051-1484-4ca2-9757-ed96f93fa462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We are trusted by'])[1]/following::button[2]</value>
+      <webElementGuid>c4be3060-6a58-4e4c-b007-0480aa802acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUALITY SERVICES'])[2]/following::button[2]</value>
+      <webElementGuid>3e72e4e1-88bb-4c55-aa51-25e324d8ae6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Capabilities &amp; Technologies'])[1]/preceding::button[3]</value>
+      <webElementGuid>d2031cb6-980a-49d3-a480-b5459a2c59af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strategy'])[1]/preceding::button[3]</value>
+      <webElementGuid>1fded49b-8951-4d80-b51f-8861b2484249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>1585282a-4c56-422a-8fae-37ec7baa8bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/ul/li[2]/button</value>
+      <webElementGuid>90a1edb8-897d-4001-b61a-d1f5a9c49f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '2' or . = '2')]</value>
+      <webElementGuid>48a3ba6a-bbfe-4217-bcbc-c796d6fa90f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
